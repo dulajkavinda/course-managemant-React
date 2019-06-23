@@ -1,0 +1,4 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const SET_CURRENT_ADMIN = "SET_CURRENT_ADMIN";
+export const SEND_ADMIN_EMAIL = "SEND_ADMIN_EMAIL";
+export const FETCH_ADMINS = "FETCH_ADMINS";

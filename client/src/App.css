@@ -1,0 +1,42 @@
+.App {
+  width: 100%;
+  margin: auto;
+  margin-top: 0px;
+  background-color: aliceblue;
+}
+
+.navbar-brand {
+  color: white;
+  font-size: 40px;
+}
+
+.wrapper {
+  width: 90%;
+  margin: auto;
+  background-color: ghostwhite;
+}
+
+.nav-link {
+  color: white;
+  font-size: 18px;
+}
+
+.nav.navbar-nav .nav-item .nav-link.active {
+  color: #1c8a66;
+}
+
+.card {
+  width: 30em;
+}
+
+.nav-pills > li > a {
+  border-radius: 0;
+}
+
+.admin-wrapper {
+  margin: auto;
+}
+
+.login {
+  height: 100vh;
+}
